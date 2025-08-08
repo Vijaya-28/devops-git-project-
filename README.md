@@ -20,6 +20,7 @@ This project demonstrates Git best practices for managing a DevOps workflow.
 4. Push branch and create a PR to merge into `dev`.
 5. Merge `dev` into `main` for production.
 
+
 ## 📁 Docs
 All task documentation is in the [`docs/`](docs/) folder.
 
